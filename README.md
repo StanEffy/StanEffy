@@ -10,7 +10,7 @@ I used to be a guide back in the days before covid, but always wanted to partici
 * 🖥️  See my portfolio at [My portfolio is under construction](http://github.com)
 * ✉️  You can contact me at [stan.efimoff@gmail.com](mailto:stan.efimoff@gmail.com)
 * 🧠  I'm learning React-Native, Svelte, Python
-* 🤝  I'm open to collaborating on any kind of project, especially if it is helpful to a society or just fun. Feel free to reach me out
+* 🤝  I'm open to collaborate with any kind of project, especially if it is helpful to a society or just fun. Feel free to reach me out
 
 ### Skills
 
