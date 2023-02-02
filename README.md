@@ -1,4 +1,4 @@
-Hi 👋 My name is Stan Efimov
+Hi 👋 My name is Stan
 ============================
 
 Front-end developer
